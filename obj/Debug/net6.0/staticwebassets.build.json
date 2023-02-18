@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zbEB8eNdwBqYqryBsDk9DWg542z5KKirkzKKcMJgbYQ=",
+  "Source": "NetCoreConnectingToAzureSQLDb",
+  "BasePath": "_content/NetCoreConnectingToAzureSQLDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
